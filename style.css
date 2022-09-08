@@ -5,4 +5,33 @@
 body {
     margin: 0;
     font-family: 'Combo', cursive;
+    font-size: 1.125rem;
+    letter-spacing: 2px;
+    height: 100vh;
+}
+
+.header {
+    width: 100%;
+    background: url('./images/Minions_characters.png') no-repeat center;
+    background-size: auto;
+    background-color: yellow;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1em;
+    height: 200px;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    
+    height: 600px;
+}   
+
+.footer {
+    width: 100%;
+    background-color: yellow;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1em;
 }
